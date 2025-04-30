@@ -1,1 +1,3 @@
-if youre actually reading this, i genuinely have no fucking clue what im doing in my life anymore
+bucket list items`:
+  - git commit my spirtuality
+  - git remote add github https://github.com/aryan-gupta/spirtuality.git && git push --all github
